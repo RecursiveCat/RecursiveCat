@@ -4,7 +4,7 @@ Passionate about clean architecture, testing, and turning ideas into reliable so
 Currently building things with:
 - ☕ **Java**, **Spring Boot**, **Hibernate** — backend development and REST APIs  
 - 🤖 **Python**, **aiogram**, **PostgreSQL** — Telegram bots and automation tools  
-- 🧠 **OpenAI API**, **LLM integration** — building AI-driven assistants and utilities  
+- 🧠 **OpenAI API**, **LangChain**, **LLM integration** — building AI-driven assistants and utilities  
 
 
 I’m currently working on several private projects, including:
