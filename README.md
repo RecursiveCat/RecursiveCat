@@ -2,9 +2,9 @@
 Java developer working on scalable backends and applied AI systems.
 Passionate about clean architecture, testing, and turning ideas into reliable software.
 Currently building things with:
-- ☕ **Java**, **Spring Boot**, **Hibernate** — backend development and REST APIs  
-- 🤖 **Python**, **aiogram**, **PostgreSQL** — Telegram bots and automation tools  
-- 🧠 **OpenAI API**, **LangChain**, **LLM integration** — building AI-driven assistants and utilities  
+- **Java**, **Spring Boot**, **Hibernate** — backend development and REST APIs  
+- **Python**, **aiogram**, **PostgreSQL** — Telegram bots and automation tools  
+- **OpenAI API**, **LangChain**, **LLM integration** — building AI-driven assistants and utilities  
 
 
 I’m currently working on several private projects, including:
