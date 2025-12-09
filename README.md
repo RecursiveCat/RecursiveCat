@@ -8,7 +8,7 @@ Most of my active work is in private repositories while I prepare clean, public-
   A public multi-service application (9 microservices) built with Java/Spring for managing startup workflows.  
   I’m actively contributing to the project; some of the features I’m working on are currently in progress and not yet merged.
 
-- [**AI Assistant Bot**](https://github.com/RecursiveCat/AI-Assistant-Bot)  
+- [**AI Assistant Bot**](https://github.com/RecursiveCat/AI-Assistant-Bot)
   Telegram assistant integrating LLM APIs (OpenAI, LangChain).  
   The project is currently private while I finalize the initial structure and prepare a public version.
 
