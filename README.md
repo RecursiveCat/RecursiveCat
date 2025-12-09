@@ -1,16 +1,21 @@
 # Roman | Java & Python Developer
-Java developer working on scalable backends and applied AI systems.
-Currently building things with:
-- **Java**, **Spring Boot**, **Hibernate**, **Redis**, - backend development and REST APIs  
-- **Python**, **aiogram**, **PostgreSQL** - Telegram bots and automation tools  
-- **OpenAI API**, **LangChain**, **LLM integration** - building AI-driven assistants and utilities  
-- **Docker**, **Linux (bash)** - other tools
+Java developer focusing on backend systems and practical AI integrations.
 
-I’m currently working on several private projects, including:
-- **Habit Tracker Bot** - Telegram bot for daily habit tracking and team motivation  
-- **AI Assistant Bot** - integrates with LLM APIs to assist users in Telegram
-- **Backend prototypes** - exploring layered architecture, testing, and design patterns
-- **Automation & creative tools** - projects like video generation, Telegram survey bots, and automated messaging systems
+### What I'm currently working on
+Most of my active work is in private repositories while I’m finalizing structure, documentation and preparing public versions. Current projects include:
+
+- **AI Assistant Bot**  
+  Telegram assistant integrating LLM APIs (OpenAI, LangChain).  
+  Several features are implemented but not yet pushed while I’m preparing a public-ready structure.
+
+- **Tandem Bot**  
+  Telegram bot for goal tracking and progress visualization for pairs.  
+  The project is in active development; I’m publishing features gradually as I clean up the codebase.
+
+### About this GitHub
+I’m currently moving my work from private repos into public ones, adding documentation, tests, and clearer architecture along the way.  
+More updates will appear here soon as I complete the migration.
+
 
 ### 📫 Contacts
 - Telegram: [@rxcxrsxvxcxt](https://t.me/rxcxrsxvxcxt)
