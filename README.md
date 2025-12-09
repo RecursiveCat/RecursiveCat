@@ -4,15 +4,15 @@ Java developer focusing on backend systems and practical AI integrations.
 ### What I'm currently working on
 Most of my active work is in private repositories while I prepare clean, public-ready versions. Current projects include:
 
-- **CorporationX**  
+- [**CorporationX** ](https://github.com/CorporationX)
   A public multi-service application (9 microservices) built with Java/Spring for managing startup workflows.  
   I’m actively contributing to the project; some of the features I’m working on are currently in progress and not yet merged.
 
-- **AI Assistant Bot**  
+- [**AI Assistant Bot**](https://github.com/RecursiveCat/AI-Assistant-Bot)  
   Telegram assistant integrating LLM APIs (OpenAI, LangChain).  
   The project is currently private while I finalize the initial structure and prepare a public version.
 
-- **Tandem Bot**  
+- *[*Tandem Bot**](https://github.com/RecursiveCat/Tandem-ToDo-TgBot)
   Telegram bot for goal tracking and progress visualization for pairs.  
   Also private at the moment due to active development.
 
