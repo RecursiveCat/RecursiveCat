@@ -12,7 +12,7 @@ Most of my active work is in private repositories while I prepare clean, public-
   Telegram assistant integrating LLM APIs (OpenAI, LangChain).  
   The project is currently private while I finalize the initial structure and prepare a public version.
 
-- *[*Tandem Bot**](https://github.com/RecursiveCat/Tandem-ToDo-TgBot)
+- [**Tandem Bot**](https://github.com/RecursiveCat/Tandem-ToDo-TgBot)
   Telegram bot for goal tracking and progress visualization for pairs.  
   Also private at the moment due to active development.
 
