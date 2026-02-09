@@ -25,5 +25,5 @@ Several projects are being migrated from private to public repositories with add
 
 
 ### 📫 Contacts
-- Telegram: [@rxcxrsxvxcxt](https://t.me/rxcxrsxvxcxt)
-- Email: connor.ueyn@gmail.com
+- Telegram: [@romanchipura](https://t.me/romanchipura)
+- Email: romanchipura@gmail.com
